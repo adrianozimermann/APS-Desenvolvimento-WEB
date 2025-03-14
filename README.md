@@ -1,2 +1,2 @@
 # APS-Desenvolvimento-WEB
-Estruturas basica de um Blog em HTML e CSS
+Estruturas basicas de um Blog em HTML e CSS
