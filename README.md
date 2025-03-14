@@ -1,2 +1,2 @@
 # APS-Desenvolvimento-WEB
-Aqui está um Blog em HTML e CSS
+Estruturas basica de um Blog em HTML e CSS
